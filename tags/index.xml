@@ -1,0 +1,276 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on gravel&#39;s blog</title>
+    <link>https://leongravel.com/tags/</link>
+    <description>Recent content in Tags on gravel&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 27 Aug 2018 23:01:41 +0000</lastBuildDate>
+    
+	<atom:link href="https://leongravel.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Base64</title>
+      <link>https://leongravel.com/tags/base64/</link>
+      <pubDate>Mon, 27 Aug 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/base64/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Jenkins</title>
+      <link>https://leongravel.com/tags/jenkins/</link>
+      <pubDate>Sun, 04 Nov 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/jenkins/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SSD</title>
+      <link>https://leongravel.com/tags/ssd/</link>
+      <pubDate>Wed, 23 May 2018 22:54:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/ssd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bfg.jar</title>
+      <link>https://leongravel.com/tags/bfg.jar/</link>
+      <pubDate>Thu, 01 Nov 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/bfg.jar/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>book</title>
+      <link>https://leongravel.com/tags/book/</link>
+      <pubDate>Wed, 06 Jun 2018 22:54:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/book/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bug</title>
+      <link>https://leongravel.com/tags/bug/</link>
+      <pubDate>Wed, 04 Apr 2018 20:54:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/bug/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>bugfix</title>
+      <link>https://leongravel.com/tags/bugfix/</link>
+      <pubDate>Tue, 09 Oct 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/bugfix/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>code</title>
+      <link>https://leongravel.com/tags/code/</link>
+      <pubDate>Sun, 15 Apr 2018 20:54:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker</title>
+      <link>https://leongravel.com/tags/docker/</link>
+      <pubDate>Wed, 05 Dec 2018 10:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/docker/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>docker-compose</title>
+      <link>https://leongravel.com/tags/docker-compose/</link>
+      <pubDate>Mon, 15 Oct 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/docker-compose/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>dubbo</title>
+      <link>https://leongravel.com/tags/dubbo/</link>
+      <pubDate>Fri, 28 Sep 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/dubbo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>git</title>
+      <link>https://leongravel.com/tags/git/</link>
+      <pubDate>Thu, 01 Nov 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>github_page</title>
+      <link>https://leongravel.com/tags/github_page/</link>
+      <pubDate>Sat, 17 Mar 2018 00:54:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/github_page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitlab-CI</title>
+      <link>https://leongravel.com/tags/gitlab-ci/</link>
+      <pubDate>Sun, 04 Nov 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/gitlab-ci/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>gitment</title>
+      <link>https://leongravel.com/tags/gitment/</link>
+      <pubDate>Sat, 17 Mar 2018 00:54:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/gitment/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hexo</title>
+      <link>https://leongravel.com/tags/hexo/</link>
+      <pubDate>Mon, 05 Mar 2018 19:33:40 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/hexo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>issue</title>
+      <link>https://leongravel.com/tags/issue/</link>
+      <pubDate>Sat, 17 Mar 2018 00:54:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/issue/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://leongravel.com/tags/java/</link>
+      <pubDate>Wed, 26 Sep 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://leongravel.com/tags/k8s/</link>
+      <pubDate>Mon, 10 Sep 2018 20:54:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>minio</title>
+      <link>https://leongravel.com/tags/minio/</link>
+      <pubDate>Wed, 05 Dec 2018 10:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/minio/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mybatis</title>
+      <link>https://leongravel.com/tags/mybatis/</link>
+      <pubDate>Fri, 22 Sep 2017 19:33:40 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/mybatis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>redis</title>
+      <link>https://leongravel.com/tags/redis/</link>
+      <pubDate>Wed, 19 Sep 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/redis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>springboot</title>
+      <link>https://leongravel.com/tags/springboot/</link>
+      <pubDate>Wed, 11 Jul 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/springboot/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>springcloud</title>
+      <link>https://leongravel.com/tags/springcloud/</link>
+      <pubDate>Mon, 03 Sep 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/springcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sql</title>
+      <link>https://leongravel.com/tags/sql/</link>
+      <pubDate>Mon, 19 Mar 2018 21:18:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>think_in_Java</title>
+      <link>https://leongravel.com/tags/think_in_java/</link>
+      <pubDate>Wed, 06 Jun 2018 22:54:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/think_in_java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tomcat</title>
+      <link>https://leongravel.com/tags/tomcat/</link>
+      <pubDate>Wed, 26 Sep 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/tomcat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>基础</title>
+      <link>https://leongravel.com/tags/%E5%9F%BA%E7%A1%80/</link>
+      <pubDate>Sun, 15 Jul 2018 23:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/%E5%9F%BA%E7%A1%80/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>设计模式</title>
+      <link>https://leongravel.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</link>
+      <pubDate>Sat, 14 Jul 2018 18:01:41 +0000</pubDate>
+      
+      <guid>https://leongravel.com/tags/%E8%AE%BE%E8%AE%A1%E6%A8%A1%E5%BC%8F/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
