@@ -15,8 +15,8 @@ script:
 after_script:
   - cd ./public
   - git init
-  - git config user.name "gravel"
-  - git config user.email "la9249@163.com"
+  - git config user.name "unaheidi"
+  - git config user.email "unaheidi@gmail.com"
   - git add .
   - git commit -m "Update blogs"
   - git push --force --quiet "https://${hexoCI}@${GH_REF}" master:master
@@ -27,4 +27,4 @@ branches:
     - hexo
 env:
  global:
-   - GH_REF: github.com/LeonGravel/Hexo-blog.git
+   - GH_REF: github.com/unaheidi/blog.git
